@@ -16,16 +16,16 @@
   justify-content: center;
   margin: 15px;
   text-align: center;
+  transition: all 1s ease;
 }
 .img {
   width: 100%;
   height: 350px;
   border-radius: 20px;
-  object-fit:cover;
+  object-fit: cover;
   object-position: 100% 100%;
-  
 }
-.image:hover {
+.img:hover {
   transform: scale(1.1);
 }
 h2 {
@@ -36,9 +36,14 @@ h2 {
 .button-recipe {
   margin-top: 20px;
   cursor: pointer;
+  font-size: 18px;
 }
-.button-icon {
-  font-size: 20px;
+.isShow-button-recipe {
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: #dd4141;
+  color: white;
+  font-size: 18px;
 }
 
 .card-recipe {
@@ -49,8 +54,8 @@ h2 {
   padding: 20px;
   border-radius: 20px;
   margin: 15px;
-  transition: all 2s ease-in;
-  margin-top: -20px !important;
+  transition: all 0.5s ease-out;
+  text-align: center;
 }
 
 h3,
@@ -67,12 +72,25 @@ h5 {
   text-align: center;
   margin: 10px;
 }
-i {
-  font-size: 22px;
-  color: #fff;
-}
 
 .recipe {
   text-align: left;
 }
 
+.icon {
+  font-size: 23px;
+}
+
+.making li {
+  list-style-type: decimal;
+  margin-left: 20px;
+  font-weight: 300;
+  margin-top: 10px;
+}
+
+.ingredient li {
+    list-style-type: circle;
+    margin-left: 20px;
+    font-weight: 300;
+    margin-top: 5px;
+  }

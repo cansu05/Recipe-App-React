@@ -9,36 +9,22 @@ const CreateRecipesCard = ({ recipe }) => {
   const recipeShow = () => {
     setIsShow(!isShow);
   };
-  
+
   return (
     <div recipe={recipe}>
       <div className="card">
-        {/* card item başlangıç */}
-        <div className="card-item">
-          <img className="img" src={recipe.img} alt="" />
-          <h2>{recipe.foodName}</h2>
-
-          <div className="button">
-            <button onClick={recipeShow} className="button-recipe">
-              <RxDoubleArrowDown />
-             
-            </button>
-          </div>
-        </div>
-        {/* card item bitiş */}
-        {/* card recipe başlangıç */}
         {isShow ? (
-          <div className="card-recipe recipes__list">
+          <div className="card-recipe">
             <div className="recipe-icon">
               <div className="recipe-serving-icon">
-                <ImSpoonKnife />
-                <h5>{recipe.serving}Kişilik</h5>
+                <ImSpoonKnife className="icon" />
+                <h5>{recipe.serving} Kişilik</h5>
               </div>
               <div className="recipe-time-icon">
-                <BsClock />
+                <BsClock className="icon" />
                 <h5>
                   Pişme Süresi <br />
-                  {recipe.time}dk
+                  {recipe.time} dk
                 </h5>
               </div>
             </div>
@@ -46,16 +32,39 @@ const CreateRecipesCard = ({ recipe }) => {
               <h3 className="ingredients-title">
                 {recipe.foodName} Tarifi İçin Malzemeler
               </h3>
-              <ul></ul>
+              <ul className="ingredient">
+                {recipe.ingredients?.map((ingredient, index) => {
+                  return <li>{ingredient}</li>;
+                })}
+              </ul>
 
               <h3 className="making-title">
                 {recipe.foodName} Tarifi Nasıl Yapılır?
               </h3>
-              <ol id="making"></ol>
+              <ol className="making">
+                {recipe.making?.map((make, index) => {
+                  return <li>{make}</li>;
+                })}
+              </ol>
             </div>
-          </div>) : <></>
-        }
-        {/* card recipe bitiş */}
+            <div>
+              <button onClick={recipeShow} className="isShow-button-recipe">
+                <RxDoubleArrowDown />
+              </button>
+            </div>
+          </div>
+        ) : (
+          <div className="card-item">
+            <img className="img" src={recipe.img} alt="" />
+            <h2>{recipe.foodName}</h2>
+
+            <div className="button">
+              <button onClick={recipeShow} className="button-recipe">
+                <RxDoubleArrowDown />
+              </button>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

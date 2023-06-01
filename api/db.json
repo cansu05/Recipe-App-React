@@ -44,6 +44,40 @@
       "time": "50",
       "ingredients": ["su", "tuz", "yağ"],
       "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    },{
+      "id": 6,
+      "foodName": "Pesto Soslu Makarna",
+      "img": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "serving": "2",
+      "time": "30",
+      "ingredients": ["ekmek", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    },
+    {
+      "id": 7,
+      "foodName": "Hamburger",
+      "img": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "serving": "1",
+      "time": "50",
+      "ingredients": ["su", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    },{
+      "id": 8,
+      "foodName": "Pesto Soslu Makarna",
+      "img": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "serving": "2",
+      "time": "30",
+      "ingredients": ["su", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    },
+    {
+      "id": 9,
+      "foodName": "Hamburger",
+      "img": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "serving": "1",
+      "time": "50",
+      "ingredients": ["su", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
     }
   ]
 }
