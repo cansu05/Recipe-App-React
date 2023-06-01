@@ -1,0 +1,49 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "foodName": "Brokoli Çorbası",
+      "img": "https://images.pexels.com/photos/5644943/pexels-photo-5644943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "serving": "4",
+      "time": "30",
+      "ingredients": ["su", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    },
+    {
+      "id": 2,
+      "foodName": "Cupcake",
+      "img": "https://images.pexels.com/photos/853004/pexels-photo-853004.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "serving": "6",
+      "time": "60",
+      "ingredients": ["su", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    },
+    {
+      "id": 3,
+      "foodName": "Tavuklu Pilav",
+      "img": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "serving": "4",
+      "time": "45",
+      "ingredients": ["su", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    },
+    {
+      "id": 4,
+      "foodName": "Pesto Soslu Makarna",
+      "img": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "serving": "2",
+      "time": "30",
+      "ingredients": ["su", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    },
+    {
+      "id": 5,
+      "foodName": "Hamburger",
+      "img": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "serving": "1",
+      "time": "50",
+      "ingredients": ["su", "tuz", "yağ"],
+      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+    }
+  ]
+}
