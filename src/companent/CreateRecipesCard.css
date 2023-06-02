@@ -3,7 +3,7 @@
   margin: auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  margin-top: 50px;
+  margin-top: 60px;
 }
 .card {
   display: flex;
@@ -20,7 +20,7 @@
 }
 .img {
   width: 100%;
-  height: 350px;
+  height: 550px;
   border-radius: 20px;
   object-fit: cover;
   object-position: 100% 100%;
@@ -37,6 +37,7 @@ h2 {
   margin-top: 20px;
   cursor: pointer;
   font-size: 18px;
+  margin-bottom: 50px;
 }
 .isShow-button-recipe {
   margin-top: 20px;
@@ -89,8 +90,52 @@ h5 {
 }
 
 .ingredient li {
-    list-style-type: circle;
-    margin-left: 20px;
-    font-weight: 300;
-    margin-top: 5px;
+  list-style-type: circle;
+  margin-left: 20px;
+  font-weight: 300;
+  margin-top: 5px;
+}
+
+@media only screen and (max-width: 1450px) {
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 60px;
   }
+
+  .button-recipe {
+    margin-bottom: 50px;
+  }
+}
+
+@media only screen and (max-width: 1054px) {
+  .container {
+    max-width: 900px;
+    margin: auto;
+    grid-template-columns: repeat(2l, 1fr);
+    margin-top: 60px;
+  }
+
+  .button-recipe {
+    margin-bottom: 50px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .container {
+    max-width: 700px;
+    margin: auto;
+    grid-template-columns: repeat(1, 1fr);
+    margin-top: 60px;
+  }
+
+  .button-recipe {
+    margin-bottom: 20px;
+  }
+
+  .img {
+    object-fit: cover;
+    object-position: 50% 70%;
+  }
+}

@@ -3,7 +3,9 @@ import "./App.css";
 import axios from "axios";
 import { useState } from "react";
 import Header from "./companent/Header";
-import RecipesList from "./companent/RecipesList";
+// import RecipesList from "./companent/RecipesList";
+import Search from "./companent/Search";
+
 
 function App() {
   const [recipes, setRecipes] = useState([]);
@@ -21,7 +23,8 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <RecipesList recipes={recipes} />
+      <Search recipes={recipes}/>
+      {/* <RecipesList recipes={recipes} /> */}
     </div>
   );
 }

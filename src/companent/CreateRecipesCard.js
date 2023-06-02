@@ -1,7 +1,6 @@
 import { RxDoubleArrowDown } from "react-icons/rx";
 import { BsClock } from "react-icons/bs";
 import { ImSpoonKnife } from "react-icons/im";
-import "./CreateRecipesCard.css";
 import { useState } from "react";
 const CreateRecipesCard = ({ recipe }) => {
   const [isShow, setIsShow] = useState(false);
