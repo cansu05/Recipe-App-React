@@ -2,9 +2,8 @@ import { useEffect } from "react";
 import "./App.css";
 import axios from "axios";
 import { useState } from "react";
-import Header from "./companent/Header";
-// import RecipesList from "./companent/RecipesList";
-import Search from "./companent/Search";
+import Header from "./companent/Header/Header";
+import Search from "./companent/Search/Search.js";
 
 
 function App() {
@@ -24,7 +23,6 @@ function App() {
     <div className="App">
       <Header />
       <Search recipes={recipes}/>
-      {/* <RecipesList recipes={recipes} /> */}
     </div>
   );
 }

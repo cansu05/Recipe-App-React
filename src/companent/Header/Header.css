@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0 0 85% 85% / 30%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  header .header-container {
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    color: #fff;
+    background-image: linear-gradient(135deg, #d3042d 10%, #f57767 100%);
+  }
+  .header-title {
+    font-family: "Ysabeau", sans-serif;
+  }

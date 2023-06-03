@@ -1,7 +1,7 @@
 import { useState } from "react";
-import CreateRecipesCard from "./CreateRecipesCard";
-import "./CreateRecipesCard.css";
-import "./Search.css";
+import CreateRecipesCard from "../RecipesCard/CreateRecipesCard.js";
+import "../RecipesCard/CreateRecipesCard.css";
+import "../Search/Search.css";
 import { BsSearchHeart } from "react-icons/bs";
 
 const Search = ({ recipes }) => {
@@ -9,7 +9,7 @@ const Search = ({ recipes }) => {
 
   const filteredRecipes = recipes.filter((recipe) => {
     if (searchTerm === "") {
-      return true; // Return all recipes if search term is empty
+      return true; 
     } else {
       return recipe.foodName.toLowerCase().includes(searchTerm.toLowerCase());
     }
