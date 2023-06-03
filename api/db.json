@@ -6,8 +6,30 @@
       "img": "https://images.pexels.com/photos/5644943/pexels-photo-5644943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "serving": "4",
       "time": "30",
-      "ingredients": ["su", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+      "ingredients": [
+        "500 gram brokoli",
+        "1 adet soğan",
+        "2 diş sarımsak",
+        "2 yemek kaşığı tereyağı veya zeytinyağı",
+        "4 su bardağı sebze suyu veya tavuk suyu",
+        "1 su bardağı süt",
+        "Tuz ve karabiber (isteğe bağlı)",
+        "Süslemek için rendelenmiş parmesan peyniri veya krema (isteğe bağlı)"
+      ],
+      "making": [
+        "Brokolileri yıkayın ve küçük çiçeklere ayırın.",
+        "Soğanı ve sarımsağı doğrayın.",
+        "Bir tencerede tereyağını veya zeytinyağını eritin.",
+        "Doğranmış soğanları ve sarımsakları tencereye ekleyin. Orta ateşte yumuşayana kadar kavurun.",
+        "Brokoli çiçeklerini tencereye ekleyin ve birkaç dakika daha kavurun.",
+        "Sebze suyunu veya tavuk suyunu tencereye ekleyin. Karıştırın ve kaynamaya bırakın.",
+        "Kaynayan çorbayı kısık ateşte yaklaşık 15-20 dakika boyunca brokoli yumuşayana kadar pişirin.",
+        "Pişen çorbayı blender veya çatalla püre haline getirin.",
+        "Püre haline getirdiğiniz çorbayı tekrar tencereye alın.",
+        "Sütü ekleyin ve karıştırın. Tuz ve karabiberle tatlandırın.",
+        "Çorbayı birkaç dakika daha ısıtın.",
+        "Servis yaparken üzerine rendelenmiş parmesan peyniri veya biraz krema ekleyebilirsiniz."
+      ]
     },
     {
       "id": 2,
@@ -15,8 +37,25 @@
       "img": "https://images.pexels.com/photos/853004/pexels-photo-853004.jpeg?auto=compress&cs=tinysrgb&w=300",
       "serving": "6",
       "time": "60",
-      "ingredients": ["su", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+      "ingredients": [
+        "1.5 su bardağı un",
+        "1.5 çay bardağı toz şeker",
+        "1/2 su bardağı süt",
+        "1/2 su bardağı tereyağı (eritilmiş)",
+        "2 adet yumurta",
+        "1 çay kaşığı vanilya özütü",
+        "2 çay kaşığı kabartma tozu",
+        "Yarım çay kaşığı tuz"
+      ],
+      "making": [
+        "Fırını 180 derecede önceden ısıtın. Cupcake kalıplarını yağlayın veya kağıt kapaklar yerleştirin.",
+        "Bir karıştırma kabında un, toz şeker, kabartma tozu ve tuzu birleştirin.",
+        "Başka bir kapta süt, eritilmiş tereyağı, yumurtalar ve vanilya özütünü çırpın.",
+        "Sıvı malzemeleri, kuru malzemelere ekleyin ve karıştırın. Karışım homojen bir kıvam alana kadar çırpın.",
+        "Hazırladığınız karışımı cupcake kalıplarına paylaştırın, her bir kalıba yaklaşık üçte iki dolusu kadar doldurun.",
+        "Cupcakeleri önceden ısıtılmış fırında 20-25 dakika pişirin. Cupcakelerin üzeri altın rengi olmalı ve kürdan testini geçmelidir.",
+        "Pişen cupcakeleri fırından çıkarın ve tamamen soğumalarını bekleyin."
+      ]
     },
     {
       "id": 3,
@@ -24,8 +63,27 @@
       "img": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=300",
       "serving": "4",
       "time": "45",
-      "ingredients": ["su", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+      "ingredients": [
+        "2 su bardağı pilavlık pirinç",
+        "500 gram tavuk göğsü (kuşbaşı doğranmış)",
+        "1 adet soğan (doğranmış)",
+        "2 diş sarımsak (ezilmiş)",
+        "2 yemek kaşığı tereyağı veya sıvı yağ",
+        "4 su bardağı tavuk suyu veya su",
+        "Yarım çay kaşığı karabiber",
+        "Yarım çay kaşığı toz kırmızı biber (isteğe bağlı)",
+        "Tuz"
+      ],
+      "making": [
+        "Pirinci bol suyla yıkayın ve süzün.",
+        "Bir tencerede tereyağını veya sıvı yağı eritin. Doğranmış soğanı ekleyin ve pembeleşene kadar kavurun.",
+        "Tavuk göğsü kuşbaşı doğranmış ise tavuğu ekleyin ve suyunu salıp çekene kadar kısık ateşte pişirin.",
+        "Pirinci tencereye ekleyin ve birkaç dakika tavukla beraber kavurun.",
+        "Tavuk suyunu veya suyu, tuzu, karabiberi ve isteğe bağlı olarak toz kırmızı biberi ekleyin. Karıştırın.",
+        "Pilavın üzerini kapatacak kadar kaynar su ekleyin. Kapağını kapatın ve pilav suyunu çekene kadar orta ateşte pişirin.",
+        "Su çekildikten sonra ocağın altını kısın ve pilavın altı demlenmeye bırakın. Yaklaşık 10-15 dakika demlenmeye bırakın.",
+        "Pilavı karıştırmadan servis yapın."
+      ]
     },
     {
       "id": 4,
@@ -33,8 +91,22 @@
       "img": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "serving": "2",
       "time": "30",
-      "ingredients": ["su", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+      "ingredients": [
+        "makarna",
+        "pesto sosu",
+        "parmesan peyniri",
+        "tuz",
+        "karabiber"
+      ],
+      "making": [
+        "Makarnayı tuzlu kaynar suda paketin üzerindeki talimatlara göre haşlayın.",
+        "Haşlanmış makarnayı süzün ve bir kenara alın.",
+        "Pesto sosunu hazırlayın veya hazır pesto sosunu kullanın.",
+        "Bir tavada pesto sosunu ısıtın ve haşlanmış makarnayı ekleyin.",
+        "Makarnayı pesto sosu ile karıştırın, tuz ve karabiber ile tatlandırın.",
+        "Servis yapmadan önce üzerine rendelenmiş parmesan peyniri serpin.",
+        "Sıcak veya ılık olarak servis yapın."
+      ]
     },
     {
       "id": 5,
@@ -42,42 +114,156 @@
       "img": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "serving": "1",
       "time": "50",
-      "ingredients": ["su", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
-    },{
+      "ingredients": [
+        "dana kıyma",
+        "soğan",
+        "sarımsak",
+        "tuz",
+        "karabiber",
+        "hamburger ekmeği",
+        "cheddar peyniri",
+        "yeşillikler",
+        "soslar"
+      ],
+      "making": [
+        "Dana kıymayı, rendelenmiş soğanı, ezilmiş sarımsağı, tuzu ve karabiberi karıştırma kabında iyice yoğurun.",
+        "Kıyma karışımından avuç içi büyüklüğünde parçalar alarak yuvarlayın ve köfte şekli verin.",
+        "Tavayı orta ateşte ısıtın ve köfteleri her iki tarafı da pişene kadar 4-5 dakika kadar pişirin.",
+        "Pişen köftelerin üzerine dilimlenmiş cheddar peyniri koyun ve tavayı kapatın. Peynirler eriyene ve köfteler tamamen pişene kadar 1-2 dakika bekleyin.",
+        "Hamburger ekmeğini yarıya kesin. Alt kısmına soslar sürün.",
+        "Üzerine marul yaprakları, domates dilimleri ve turşu dilimleri yerleştirin.",
+        "Pişmiş köfteleri peynirli tarafı üste gelecek şekilde ekmeğin üzerine yerleştirin.",
+        "Üst kısmı da soslarla süsleyin ve hamburger ekmeğinin üst kısmını kapatın.",
+        "Dilediğiniz garnitürler veya patates kızartmasıyla servis yapabilirsiniz."
+      ]
+    },
+    {
       "id": 6,
-      "foodName": "Pesto Soslu Makarna",
-      "img": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "serving": "2",
-      "time": "30",
-      "ingredients": ["ekmek", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+      "foodName": "Pastırmalı Pizza",
+      "img": "https://images.pexels.com/photos/2909822/pexels-photo-2909822.jpeg",
+      "serving": "3",
+      "time": "70",
+      "ingredients": [
+        "Hamur için:",
+        "- 2.5 su bardağı un",
+        "- 1 paket instant maya",
+        "- 1 çay kaşığı toz şeker",
+        "- 1 çay kaşığı tuz",
+        "- 1 yemek kaşığı sıvı yağ",
+        "- 1 su bardağı ılık su",
+        "- 2 yemek kaşığı domates sosu",
+        "- 150 gram rendelenmiş mozzarella peyniri",
+        "- 100 gram pastırma dilimleri",
+        "- 1 adet yeşil biber (ince dilimlenmiş)",
+        "- 1 adet kırmızı biber (ince dilimlenmiş)",
+        "- 1 adet soğan (ince dilimlenmiş)",
+        "- 1 çay kaşığı kuru kekik",
+        "- 1 çay kaşığı pul biber",
+        "- Tuz",
+        "- Zeytinyağı"
+      ],
+      "making": [
+        "1. Hamur için, unu geniş bir yoğurma kabına alın. Ortasını havuz şeklinde açın.",
+        "2. Instant mayayı, toz şekeri ve tuzu havuzun ortasına ekleyin.",
+        "3. Sıvı yağı ve ılık suyu ekleyerek karıştırın.",
+        "4. Karışımı yoğurarak ele yapışmayan bir hamur elde edene kadar yoğurun.",
+        "5. Hamuru örtün ve oda sıcaklığında yaklaşık 1 saat mayalandırın.",
+        "6. Mayalanan hamuru unlanmış bir yüzeyde merdane yardımıyla açın.",
+        "7. Açtığınız hamuru yağlı kağıt serili fırın tepsisine yerleştirin.",
+        "8. Hamurun üzerine domates sosunu sürün.",
+        "9. Rendelenmiş mozzarella peyniri, pastırma dilimleri, yeşil biber dilimleri, kırmızı biber dilimleri ve ince dilimlenmiş soğanı ekleyin.",
+        "10. Üzerine tuz, kuru kekik ve pul biber serpiştirin. Zeytinyağı gezdirin.",
+        "11. Önceden ısıtılmış 200 derece fırında üzeri kızarana kadar pişirin.",
+        "12. Fırından çıkan pastırmalı pizzayı dilimleyerek servis yapın."
+      ]
     },
     {
       "id": 7,
-      "foodName": "Hamburger",
-      "img": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "serving": "1",
+      "foodName": "Elmalı Turta",
+      "img": "https://images.pexels.com/photos/6163263/pexels-photo-6163263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "serving": "4",
       "time": "50",
-      "ingredients": ["su", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
-    },{
-      "id": 8,
-      "foodName": "Pesto Soslu Makarna",
-      "img": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "serving": "2",
-      "time": "30",
-      "ingredients": ["su", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+      "ingredients": [
+        "- 2 su bardağı un",
+        "- 125 gram tereyağı (soğuk ve küp şeklinde kesilmiş)",
+        "- 1 çay kaşığı tuz",
+        "- 1 çay kaşığı toz şeker",
+        "- 4-5 yemek kaşığı buzlu su",
+        "- 4 adet elma (rendelenmiş)",
+        "- 1/2 su bardağı toz şeker",
+        "- 1 çay kaşığı tarçın",
+        "- 1 yemek kaşığı limon suyu",
+        "- 1 yemek kaşığı mısır nişastası",
+        "- 1 yemek kaşığı tereyağı (eritilmiş)",
+        "- Pudra şekeri (servis için)"
+      ],
+      "making": [
+        "1. Hamur için, unu, tereyağını, tuzu ve toz şekeri bir karıştırma kabına alın.",
+        "2. Parmaklarınızla tereyağını unla karıştırarak kum kıvamına gelene kadar ovun.",
+        "3. Buzlu suyu ekleyerek hamuru toparlayın ve streç filme sararak buzdolabında 30 dakika dinlendirin.",
+        "4. Dinlenen hamuru unlanmış bir yüzeyde merdane ile açın ve tart kalıbına yerleştirin.",
+        "5. Rendelenmiş elmaları, toz şekeri, tarçını, limon suyunu ve mısır nişastasını bir kapta karıştırın.",
+        "6. Elmalı karışımı tart hamurunun üzerine yayın.",
+        "7. Üzerine eritilmiş tereyağını gezdirin.",
+        "8. Önceden ısıtılmış 180 derece fırında üzeri kızarana kadar pişirin.",
+        "9. Fırından çıkan elmalı turta soğuduktan sonra üzerine pudra şekeri serpiştirerek servis yapın."
+      ]
     },
     {
+      "id": 8,
+      "foodName": "Çikolata Parçalı Kurabiye",
+      "img": "https://images.pexels.com/photos/189536/pexels-photo-189536.jpeg",
+      "serving": "2",
+      "time": "30",
+      "ingredients": [
+        "- 125 gram tereyağı (oda sıcaklığında)",
+        "- 1 su bardağı toz şeker",
+        "- 1 adet yumurta",
+        "- 1 çay kaşığı vanilya özütü",
+        "- 2 su bardağı un",
+        "- 1 çay kaşığı karbonat",
+        "- 1/2 çay kaşığı tuz",
+        "- 150 gram çikolata parçaları"
+      ],
+      "making": [
+        "1. Tereyağı ve toz şekeri bir karıştırma kabında mikserle iyice çırpın.",
+        "2. Yumurtayı ekleyip karıştırmaya devam edin.",
+        "3. Vanilya özütünü ekleyin ve karıştırın.",
+        "4. Unu, karbonatı ve tuzu eleyerek ekleyin, karıştırın.",
+        "5. Çikolata parçalarını ekleyip hamura yedirin.",
+        "6. Hamuru buzdolabında 15-20 dakika dinlendirin.",
+        "7. Fırını 180 dereceye ayarlayın.",
+        "8. Dinlenen hamurdan ceviz büyüklüğünde parçalar koparıp elinizle yuvarlayın ve yağlı kağıt serili fırın tepsisine aralıklı olarak yerleştirin.",
+        "9. Kurabiyeleri önceden ısıtılmış fırında 12-15 dakika pişirin.",
+        "10. Fırından çıkan kurabiyeleri soğumaya bırakın ve servis yapın."
+      ]
+    },{
       "id": 9,
-      "foodName": "Hamburger",
-      "img": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "foodName": "Çıtır Tavuk",
+      "img": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "serving": "1",
       "time": "50",
-      "ingredients": ["su", "tuz", "yağ"],
-      "making": ["su hazirla", "tepsiye koy", "kaynat"]
+      "ingredients": [
+        "- 1 adet tavuk göğsü",
+        "- 1 su bardağı galeta unu",
+        "- 1 çay kaşığı tuz",
+        "- 1 çay kaşığı karabiber",
+        "- 1 çay kaşığı pul biber",
+        "- 1/2 çay kaşığı kekik",
+        "- 1/2 çay kaşığı toz köri",
+        "- 1 adet yumurta",
+        "- Sıvı yağ (kızartmak için)"
+      ],
+      "making": [
+        "1. Tavuk göğsünü küçük parçalara kesin.",
+        "2. Galeta ununu bir kaseye alın. İçine tuz, karabiber, pul biber, kekik ve toz köriyi ekleyin, karıştırın.",
+        "3. Yumurtayı bir kaseye kırıp çırpın.",
+        "4. Tavuk parçalarını önce yumurtaya sonra baharatlı galeta ununa batırın, her tarafının kaplanmasını sağlayın.",
+        "5. Tavaya sıvı yağı ekleyin ve kızdırın.",
+        "6. Tavuk parçalarını yağda kızartın, her iki tarafı da altın rengi olana kadar pişirin.",
+        "7. Kızaran tavukları kağıt havlu serili bir tabağa alarak fazla yağını süzün.",
+        "8. Çıtır tavukları sıcak servis yapın, yanında soslarla servis edebilirsiniz."
+      ]
     }
   ]
 }

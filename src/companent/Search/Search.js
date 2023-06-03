@@ -5,11 +5,12 @@ import "../Search/Search.css";
 import { BsSearchHeart } from "react-icons/bs";
 
 const Search = ({ recipes }) => {
+
   const [searchTerm, setSearchTerm] = useState("");
 
   const filteredRecipes = recipes.filter((recipe) => {
     if (searchTerm === "") {
-      return true; 
+      return true;
     } else {
       return recipe.foodName.toLowerCase().includes(searchTerm.toLowerCase());
     }
@@ -36,10 +37,13 @@ const Search = ({ recipes }) => {
         </div>
       </form>
       <div className="container">
-        {/* Render the filtered recipes */}
-        {filteredRecipes.map((recipe, index) => (
-          <CreateRecipesCard key={index} recipe={recipe} />
-        ))}
+        {filteredRecipes.length > 0 ? (
+          filteredRecipes.map((recipe, index) => (
+            <CreateRecipesCard key={index} recipe={recipe} />
+          ))
+        ) : (
+          <p className="errorMessage">Oops! Something went wrong.</p>
+        )}
       </div>
     </div>
   );

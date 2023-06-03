@@ -18,6 +18,18 @@
   color: rgb(39, 32, 32);
   background-color: #f7cac4;
 }
+.errorMessage{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,45%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 40px;
+  color: rgb(63, 58, 58);
+}
 textarea:focus,
 input:focus {
   outline: 1px solid rgb(235, 220, 220);
