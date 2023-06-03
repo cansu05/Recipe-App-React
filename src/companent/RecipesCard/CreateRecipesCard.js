@@ -54,7 +54,7 @@ const CreateRecipesCard = ({ recipe }) => {
           </div>
         ) : (
           <div className="card-item">
-            <img className="img" src={recipe.img} alt="" />
+            <img className="img" src={recipe.img} alt="" onClick={recipeShow} />
             <h2>{recipe.foodName}</h2>
 
             <div className="button">
